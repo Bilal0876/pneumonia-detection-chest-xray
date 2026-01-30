@@ -57,6 +57,3 @@ Results
 - Per-class evaluation confirms reliable pneumonia detection
 
 (Exact metrics and plots are available in the notebook.)
-
-
-── IDL-Project-Pneumonia.pptx  # Project presentat├── README.md                # Project documentation
